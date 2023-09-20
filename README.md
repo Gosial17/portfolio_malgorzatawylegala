@@ -18,4 +18,5 @@ hiperłącze "DEV TEAM CONTACT" przekierowuje do strony logowania Slack, zamiast
 w opcji "filtr" brakuje przydatnej opcji tj. filtrowanie po ilości meczów
 # Task2
 Po co piszemy testcase'y?
+
 Test case to zapis zestawu działań koniecznych do wykonania w celu zweryfikowania, czy system lub oprogramowanie spełnia stawiane przed nim wymagania. Celem przypadku testowego jest sprawdzenie, czy funkcje programu działają właściwie oraz czy oprogramowanie spełnia wymagania postawione przez klienta. Tworzymy przypadki testowe, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. 
